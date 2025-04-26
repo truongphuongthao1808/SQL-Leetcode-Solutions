@@ -1,3 +1,4 @@
+# Write your MySQL query statement below
 WITH First_order AS (
     SELECT customer_id, MIN(order_date) AS first_order_date
     FROM Delivery
@@ -13,4 +14,3 @@ JOIN First_order f
     ON d.order_date = f.first_order_date
     AND d.customer_id = f.customer_id
 ;
-
