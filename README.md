@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/truongphuongthao1808/SQL-Leetcode-Solutions/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/truongphuongthao1808/SQL-Leetcode-Solutions/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/truongphuongthao1808/SQL-Leetcode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/truongphuongthao1808/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/truongphuongthao1808/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
